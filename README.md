@@ -14,7 +14,20 @@ Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License 
 
 See the LICENSE file for details
 
-## Attribution example:
+You are free to:
 
+- Share — copy and redistribute the material in any medium or format.
+- Adapt — remix, transform, and build upon the material.
+
+Under the following terms:
+
+- Attribution — appropriate credit must be given.
+- NonCommercial — the material may not be used for commercial purposes.
+- ShareAlike — adaptations must be distributed under the same license.
+
+Full license:
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+### Attribution example
 "Google Cybersecurity Anki Deck" by viera-dev05,
 licensed under CC BY-NC-SA 4.0.
