@@ -1,5 +1,5 @@
-# anki-googleCybersecurity
 # Google Cybersecurity & Security+ Flashcard Deck
+### anki-googleCybersecurity
 
 A personal Anki deck designed to study the most critical technical concepts from the Google Cybersecurity Professional Certificate, strictly filtered and cross-referenced for alignment with the CompTIA Security+ (SY0-701) exam objectives.
 
