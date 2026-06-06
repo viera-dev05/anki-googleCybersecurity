@@ -2,6 +2,7 @@
 ### anki-googleCybersecurity
 
 A personal Anki deck designed to study the most critical technical concepts from the Google Cybersecurity Professional Certificate, strictly filtered and cross-referenced for alignment with the CompTIA Security+ (SY0-701) exam objectives.
+Structure and content decided by me. Questions and definitions wrote by LLM (gemini).
 
 ## Focus Areas
 *   **High-Yield Technical Core:** Eliminates introductory narrative history and high-level fluff to focus strictly on actionable terminology, tools, and frameworks.
