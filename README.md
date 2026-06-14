@@ -7,6 +7,7 @@ Structure and content decided by me. Questions and definitions wrote by LLM (gem
 ## Focus Areas
 *   **High-Yield Technical Core:** Eliminates introductory narrative history and high-level fluff to focus strictly on actionable terminology, tools, and frameworks.
 *   **Exam Alignment:** Every card is validated against Security+ domains (General Security Concepts, Threats/Vulnerabilities/Mitigations, and Security Operations).
+*   **Considerations:** I skipped practical content cards. In other words, Python and SQL cards are not included.
 
 ## License
 
